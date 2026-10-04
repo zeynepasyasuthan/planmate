@@ -1,0 +1,4 @@
+.env
+planmate.db
+__pycache__/
+*.pyc
